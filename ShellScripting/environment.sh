@@ -1,0 +1,9 @@
+echo $USER
+echo $HOME
+echo $SHELL
+echo $TERM
+echo $EDITOR
+echo $HOSTNAME
+echo $PATH
+echo $LD_LIBRARY_PATH
+echo $PWD
